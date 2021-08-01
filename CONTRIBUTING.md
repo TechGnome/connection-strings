@@ -27,7 +27,7 @@ Don't forget to go back and add/update any references as needed in the [/readme]
 ## Tasks
 &nbsp;|&nbsp;|&nbsp;
 --- | --- | ---
-[] Access|[] Active Directory|[] AS/400
+[*] Access|[] Active Directory|[] AS/400
 [] Azure SQL Database|[] Caché|[] Composite Information Server
 [] ComputerEase|[] DBF / FoxPro|[] DBMaker
 [] DSN|[] EffiProz|[] Empress
