@@ -20,6 +20,9 @@ Examples:
 * .NET Connection to SQL Server - /samples/sql-server/net-connector
 * ODBC driver with MySQL - /samples/mysql/odbc
 
+## NOTE
+Don't forget to go back and add/update any references as needed in the [/readme](/README.md), [/docs/readme](/docs/README.md), [/samples/readme](/samples/README.md), 
+
 ----
 ## Tasks
 &nbsp;|&nbsp;|&nbsp;
