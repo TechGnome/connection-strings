@@ -8,6 +8,8 @@ The goal of this repo is to preserve the information previously available at the
 
 A two phase approach will be undertaken. The first will be to simply get the information ported over as quickly as possible in a manner very similar  to the original site. The second phase, will be to refactor and rearrange the site and information to make it more managable, sustainable, allow for larger code samples and utilities to be included and/or linked to.
 
+The documenation will be created using a series of markdown files, then published to the github repo as pages for easy viewing. Documentation can be found in the [docs folder](/docs) and code samples and snippets can be found in the [samples folder](/samples).
+
 ## Contributions
 There is a lot of information here. A LOT. More than one person alone can possibly tackle alone. Also, as time moves on, technologies change, updates will be needed. If you are interested in helping, either in porting over a new section, or in contributin to an existing section, see the [CONTRIBUTING](CONTRIBUTING.md) file.
 
@@ -33,4 +35,4 @@ There is a lot of information here. A LOT. More than one person alone can possib
  Textfile | UDL | UniData
  UniVerse | Valentina | Vertica
  VistaDB | Visual FoxPro | Windows Azure Storage
- ZIM||[template](TEMPLATE.md)
+ ZIM||[template](/docs/TEMPLATE.md)
